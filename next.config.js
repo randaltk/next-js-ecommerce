@@ -1,7 +1,7 @@
 module.exports = {
   distDir: "build",
   env: {
-    BASE_URL: "http://localhost:3000",
+    BASE_URL: "https://objective-nightingale-449008.netlify.app/",
     MONGODB_URL:
       "mongodb+srv://randaltk:randaltk98@cluster0.z7cqv.mongodb.net/aguadeira?retryWrites=true&w=majority",
     ACCESS_TOKEN_SECRET: "W4t:q.Rt%=}Vk$E72P?HjM>YvEG2<3T5Cu-,'n&`#K-V.Q.UYa",
